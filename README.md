@@ -7,3 +7,4 @@ Tha còd aghaidh na làraich-lìn fosgailte le còd, fàilte gus cuideachadh le 
 * [còd aghaidh](https://github.com/xxai-art/web)
 * [Pacaidean cànain airson na làraich gu h-iomlan](https://github.com/xxai-art/web/tree/main/i18n)
 * [Pacaidean cànain airson modalan logadh a-steach](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Sgrìobhainnean ioma-chànanach làrach-lìn](https://github.com/xxai-doc)
