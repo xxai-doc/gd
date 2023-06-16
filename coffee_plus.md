@@ -2,13 +2,13 @@
 
 [@ w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , cuir cuid de fheartan ris a rèir co-chòrdadh coffeescript, faic [coffee_plus](./coffee_plus.md) .
 
-* caochladair a chur an cèill
+## caochladair a chur an cèill
 
 ```
 + var1, var2
 ```
 
-* leubail dearbhaidh
+## leubail dearbhaidh
 
 `:$` airson a chleachdadh le [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* toirt a-steach luath
+## toirt a-steach luath
 
 ```
 > zx/globals:
