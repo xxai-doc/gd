@@ -17,14 +17,14 @@ Is e an cànan prògramadh aghaidh aghaidh [@w5/coffee_plus](http://npmjs.com/@w
 
 Tog air na 3 pròiseactan a leanas
 
-### [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
 
-Faodaidh an teamplaid comharrachaidh, leis an iar-leasachan `.mdt` , iomradh a thoirt air faidhlichean taobh a-muigh le co-chòrdadh coltach ri `<+ ./coffee_plus/import.js>` .
+  Is e an iar-leasachan `.mdt` , faodaidh tu an co-chòrdadh coltach ri `<+ ./coffee_plus/import.js>` a chleachdadh gus iomradh a thoirt air faidhlichean taobh a-muigh, agus comharradh sìos leis an iar-leasachan `.md` .
 
-[@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
 
-Cha dèan eadar-theangachadh Markdown còdan is ceanglaichean eadar-theangachadh, agus cuiridh e seantansan eadar-theangaichte air dòigh. Ma thèid an t-eadar-theangachadh atharrachadh ach nach eil an teacsa tùsail air atharrachadh, cha dèan e a-rithist sgrìobhadh thairis air atharrachadh an eadar-theangachaidh.
+  Cha dèan eadar-theangachadh Markdown còdan is ceanglaichean eadar-theangachadh, agus cuiridh e seantansan eadar-theangaichte air dòigh. Ma thèid an t-eadar-theangachadh atharrachadh ach nach eil an teacsa tùsail air atharrachadh, cha dèan e a-rithist sgrìobhadh thairis air atharrachadh an eadar-theangachaidh.
 
-[@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
 
-Faidhlichean cànain airson làraichean-lìn gineadh `yaml` eadar-theangachadh.
+  Faidhlichean cànain airson làraichean-lìn gineadh `yaml` eadar-theangachadh.
